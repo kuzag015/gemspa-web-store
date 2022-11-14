@@ -774,6 +774,11 @@ margin-top: 160px;
   height: auto;
 }
 
+.small {
+  font-weight: lighter;
+  color: rgb(254, 254, 197);
+}
+
 }
 
 
